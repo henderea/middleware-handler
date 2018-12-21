@@ -1,0 +1,10 @@
+{
+  "name": "@henderea/middleware-handler",
+  "version": "1.0.0",
+  "description": "A simple utility for wrapping middleware around a single http request handler",
+  "main": "index.js",
+  "repository": "git@github.com:henderea/middleware-handler.git",
+  "author": "Eric Henderson <henderea@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
